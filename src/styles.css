@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#book {
+  padding: 1rem;
+}
+
+span {
+  padding: 0.5rem;
+  font-size: 1.66rem;
+  cursor: pointer;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-radius: 1rem;
+  margin-left: 2rem;
+  background-color: gray;
+}
+
+li {
+  border: 1px solid black;
+  border-radius: 1rem;
+  padding: 1rem;
+  margin: auto;
+  list-style: none;
+  box-sizing: inherit;
+  width: 40%;
+}
+
+#bookName {
+  font-size: 1.5rem;
+  padding: 0.5rem;
+}
+
+#rate {
+  padding-left: 0.5rem;
+  margin: 0.5rem;
+}
